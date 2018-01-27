@@ -18,6 +18,8 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     NSLog(@"this line is added for first commit...");
+    NSLog(@"this line is added for second commit...");
+    
 }
 
 
