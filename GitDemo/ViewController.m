@@ -24,7 +24,6 @@
     NSLog(@"change in test_master");
     NSLog(@"change in master - for checking git");
     NSLog(@"change in master - for checking git--2");
-    
 }
 
 
