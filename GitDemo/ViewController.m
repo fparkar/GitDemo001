@@ -20,9 +20,10 @@
     NSLog(@"this line is added for first commit...");
     NSLog(@"this line is added for second commit...");
     NSLog(@"this line is added for third commit...");
-    // Sat, 27 Jan 2018 - 20:38
+    // Sat, 27 Jan 2018 - 21:38
     NSLog(@"change in test_master");
     NSLog(@"change in master - for checking git");
+    NSLog(@"change in master - for checking git--2");
 }
 
 
